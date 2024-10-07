@@ -17,8 +17,7 @@ body {
     background-position: center;
     margin: 0;
     padding: 0;
-    min-height: 100vh; /* Certifique-se de que cubra a altura completa da tela */
-}
+    min-height: 100vh; 
 .wrapper {
     position: relative;
     width: 750px;
